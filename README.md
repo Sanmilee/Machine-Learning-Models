@@ -1,5 +1,6 @@
 # Machine-Learning-Models
 Implementation of traditional ML models
+Implementation of traditional ML models
 
 
 Classifiers
@@ -42,3 +43,4 @@ k-Means (Semi-Supervised):
 
 Often used as a clustering tool but can also assist classification tasks with semi-supervised learning.
 Classification Metrics
+
